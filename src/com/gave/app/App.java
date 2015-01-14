@@ -12,5 +12,6 @@ package com.gave.app;
 public class App {
     public static void main(String[] args) {
         System.out.println("First line for github pull request workflow testing project!");
+        System.out.println("Add new line from cloned project!");
     }
 }
